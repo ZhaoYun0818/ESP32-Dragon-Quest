@@ -44,6 +44,7 @@
 2. **安裝microdot**：
     ```bash
      pip install microdot
+    ```
    - [microdot 官方文檔](https://pypi.org/project/microdot/)
      
 
