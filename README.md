@@ -42,7 +42,7 @@
    - 確保你的 ESP32 已燒錄 MicroPython 固件。如需安裝，請參考 [MicroPython 官方文檔](https://docs.micropython.org/en/latest/esp32/tutorial/intro.html)。
 
 2. **安裝microdot**：
-   - ```bash
+    ```bash
      pip install microdot
      
 
