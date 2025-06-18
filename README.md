@@ -5,7 +5,8 @@
 ---
 
 
-https://github.com/user-attachments/assets/11448b1e-535f-42c2-90e6-28b7355323ee
+![錄製內容 2025-06-19 034714](https://github.com/user-attachments/assets/ed4524a0-5e18-461f-b909-0236f809e485)
+
 
 
 ## 簡介
