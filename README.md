@@ -102,4 +102,4 @@ https://github.com/user-attachments/assets/e9b3dcb5-c325-4865-becc-f097bf193060
 ---
 
 
-# 希望你享受這個遊戲！祝你成為真正的勇者，成功擊敗惡龍！
+# 享受這個遊戲！祝你成為真正的勇者，成功擊敗惡龍！
