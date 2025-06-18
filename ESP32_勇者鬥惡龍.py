@@ -153,12 +153,12 @@ async def game_loop():
             # 火球生成
             if game_state['dh'] > 0:
                 ct = utime.ticks_ms()
-                if utime.ticks_diff(ct, game_state['lft']) >= urandom.randint(777 + game_state['dh'] * 88, (game_state['dh'] + 1) * 555): #火球生成間隔
+                if utime.ticks_diff(ct, game_state['lft']) >= urandom.randint(567 + game_state['dh'] * 123, (game_state['dh'] + 1) * 555): #火球生成間隔
                     for fb in game_state['fb']:
                         if not fb['a']:
                             fb['x'] = game_state['dx'] - FIREBALL_WIDTH
                             if game_state['dh'] <=2: #火球高度
-                                fb['y'] = game_state['dy'] + DRAGON_HEIGHT // 2+urandom.randint(-32*(3-game_state['dh']),25)
+                                fb['y'] = game_state['dy'] + DRAGON_HEIGHT // 2+urandom.randint(-30*(3-game_state['dh']),25)
                             else:
                                 fb['y'] = game_state['dy'] + DRAGON_HEIGHT // 2
                             fb['a'] = True
