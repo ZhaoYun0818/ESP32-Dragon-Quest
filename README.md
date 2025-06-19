@@ -65,7 +65,7 @@ https://github.com/user-attachments/assets/3743c666-af23-44a6-9f43-b2ff483f57ec
    - **搖桿**：
      - X 軸連接至 GPIO 35（ADC）。
      - Y 軸連接至 GPIO 32（ADC）。
-     - 按鈕連接至 GPIO 17（帶上拉電阻）。
+     - 按鈕連接至 GPIO 17 。
 
 4. **啟動程式**：
    - 上電或重啟 ESP32，程式將自動運行並啟動 Wi-Fi 熱點。
